@@ -1,2 +1,2 @@
-# chris.portifolio.github.io
+# Chris Portifolio
 My Portfolio
